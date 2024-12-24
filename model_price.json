@@ -1,0 +1,9 @@
+{
+    "gpt-4-all": 2,
+    "gpt-4-gizmo-*": 2,
+    "gpt-4o-gizmo-*": 3,
+    "jp-ea-4o": 3,
+    "gemini-2.0-flash-exp": 2.5,
+    "gemini-exp-1206": 2.5,
+    "grok-2-1212": 2.5
+  }
